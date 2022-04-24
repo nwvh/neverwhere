@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/76164598/164971138-bba44999-049e-4fa9-9809-153369c46900.png)
+![image](https://user-images.githubusercontent.com/76164598/164978039-8194918e-7634-4824-a40a-058b2c9ebbe7.png)
 
 
 # About Neverwhere 👩‍💻
