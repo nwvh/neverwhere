@@ -1,0 +1,3 @@
+-- Thank you for using NEVERWHERE, enjoy your script :)
+
+loadstring(game:HttpGet"https://raw.githubusercontent.com/RunDTM/scripts/main/lifeinprison.lua")()
